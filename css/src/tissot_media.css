@@ -1,0 +1,22 @@
+/*mobile*/
+@media screen and (max-width:480px) {
+  
+
+}
+ 
+/*table*/
+@media screen and (min-width:481px) and (max-width:768px) {
+
+}
+/*pc*/
+@media screen and (min-width:769px) and (max-width:1366px) {
+
+
+}
+
+
+
+/*pcfull*/
+@media screen and (min-width:1367px) {
+
+}

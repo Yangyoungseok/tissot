@@ -1,0 +1,55 @@
+@media screen and (max-width:480px) {
+  #hdnav{display:none;}
+  #headBox{ padding-top: 6.25vw; padding-bottom: 6.25vw;  height:60px; background-color:rgba(0,0,0,0.5);}
+  .headBox_wrap{margin: auto; width:85%; max-width:348px; min-width:280px; height: 100%;}
+  h1{width: 100px; height: 100%; float:left;/* background-color: #0af;*/
+    background-image:url("../../../img/header/logoh1.png");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;}
+  #nvBox{float: right; width: 60px; height:60px;
+        background-image:url("../../../img/header/Mmenu.png");
+        background-repeat:no-repeat;
+        background-size:contain;
+        background-position:center;}
+
+  #Mbanner{width:100%; height:100%;
+          background-image:url("../../../img/header/Mban2.png");
+          background-repeat:no-repeat;
+          background-size:cover;
+          background-position:center;
+          }
+ #fullVideo{display:none;}
+  #heritage{box-sizing:border-box;padding-top:155px; padding-left:24px;  width:100%; height:83.333333vw; min-height: 300px;
+            background-image:url("../../../img/heritage/Mheritage.png");
+            background-repeat:no-repeat;
+            background-size:cover;
+            background-position:center;}
+      .heri{position:relative;width:100%; height:100%;}
+      .heriBox{float:left; width:36.666666vw; height:18.75vw;}
+      .heriBox>p{font-weight:bold; font-size:20px; color:#000;}
+      .heriSerach{position:absolute; width:31.666666vw; height:6.25vw; left:50%; bottom:70%;
+                  background-image:url("../../../img/heritage/SEARCH copy.png");
+                  background-repeat:no-repeat;
+                  background-size:contain;}
+
+
+
+
+  .Mmen{width:100%;height:41.666666vw;
+        box-sizing:border-box; padding-top:10.41666666666667vw; padding-left:14.16666666666667vw; 
+        background-image:url("../../../img/store/men.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-position:center; }
+  .Mmen>a>h3{margin-bottom:6.041666666666667vw; font-size:8.333333333333333vw; font-weight:bold; color:#fff;}
+  .Mmen>a>p{margin-left:7.916666666666667vw; width:16.04166666666667vw;height:8.75vw; background-color:#e51f1f; color:#fff; font-size:5vw; font-weight:bold; text-align:center;}
+  .Mwom{width:100%;height:200px;
+        box-sizing:border-box; padding-top:10.41666666666667vw; padding-left:14.16666666666667vw; 
+        background-image:url("../../../img/store/wo.jpg");
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-position:center; }
+  .Mwom>a>h3{margin-bottom:6.041666666666667vw; font-size:8.333333333333333vw; font-weight:bold; color:#fff;}
+  .Mwom>a>p{margin-left:7.916666666666667vw; width:16.04166666666667vw;height:8.75vw; background-color:#e51f1f; color:#fff; font-size:5vw; font-weight:bold; text-align:center;}
+}

@@ -1,0 +1,38 @@
+@media screen and (min-width:769px) and (max-width:1365px) {
+   #headBox{ padding-top: 30px; padding-bottom: 30px; height:90px; background-color:rgba(0,0,100,0.5);}
+   .headBox_wrap{margin: auto; width:94%; height: 100%;}
+     h1{width:13.553113vw; height: 100%; float:left;
+        background-image:url("../../../img/header/logoh1.png");
+        background-repeat:no-repeat;
+        background-size:contain;
+        background-position:center;}
+#nvBox{float:right; width:71.428571vw;height:auto;}
+#hdgnb{float:right; width:14.652014vw; height:auto; margin-bottom:2.197802vw;}
+#hdgnb>ul>li{width:100%;height:100%;}
+#hdgnb>ul>li>a{display:block; float:left; margin-right:3.956043vw; width:2.051282vw; height:2.197802vw;
+               background-repeat:no-repeat;
+               background-size:contain;
+               background-position:center;}
+#hdgnb>ul>li:nth-child(1)>a{background-image:url(../../../img/header/Search.png);}
+#hdgnb>ul>li:nth-child(2)>a{background-image:url(../../../img/header/world-512.png);}
+#hdgnb>ul>li:nth-child(3)>a{background-image:url(../../../img/header/pin-1630707_960_720.png);}
+#hdgnb>ul>li:nth-child(3)>a:last-child{margin-right:0;}
+
+
+
+
+#hdnav{float:right; width:100%; height:6.959706vw;}
+#hdnav>ul>li{float:left; width:6.59340vw;height:2.197802vw; margin-right:2.344322vw;}
+#hdnav>ul>li>a{display:block; width:100%; height:auto; float:left; font-size:18px; font-weight:bold; text-align:center; text-transform:capitalize;}
+#hdnav>ul>li:nth-child(1){margin-left:28.57142vw; width:6.59340vw;height:2.197802vw; border:solid 2px #000; background-color:#fff;}
+#hdnav>ul>li:last-child{margin-right:0;}
+/*/he*/
+
+  /*-----------he-------------------------------------*/
+
+  #fullVideo{position: relative; width:100%; height:100%; background-color:#fa0; overflow:hidden;}
+  #fullVideo > video{
+    position: absolute; top:50%; left:50%; 
+    transform:translate(-50%,-50%);
+    width:auto; height:auto; min-width:100%; min-height:100%;}
+}

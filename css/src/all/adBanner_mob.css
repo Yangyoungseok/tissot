@@ -1,0 +1,24 @@
+@media screen and (max-width:480px) {
+
+  /*---------------------------------*/
+  #store{padding-bottom:11.875vw; width:100%; height:auto; min-height:1000px; background-color:#fff;}
+.gender{display:none;}
+ #store>h2{text-align:center; font-size:8.333333333333333vw; margin-top:4.166666666666667vw;}
+.stBox{margin:auto; width:100%; height:100%; box-sizing:border-box; padding-top:13.54166666666667vw; padding-left:4.583333333333333vw;}
+.stBox>ul{width:100%;height:100%;}
+.stBox>ul>li{width:38.33333333333333vw;height:59.16666666666667vw; background-image:url("../../../img/store/men1/wc1.png");
+                                       background-repeat:no-repeat;
+                                       background-size:contain;
+                                       background-position:center;}
+
+  #collection{box-sizing:border-box; width:100%; height:83.75vw;/*402/480/100*/ padding-top:186px; padding-left:81px;
+              background-image:url("../../../img/collection/Layer 2 copy 2.png");
+              background-repeat:no-repeat; background-size:cover;
+              background-position:center;}
+.coll{width:100%;height:auto;}
+.coll>h3{width:32.5vw; height:9.583333333333333vw; color:#fff; font-size:18px; border:solid 3px #fff;}
+.coll>h3>a{display:block; width:100%; height:100%; color:#fff; text-align:center; line-height:40px;}
+.coll>p{display:none;}
+
+
+}

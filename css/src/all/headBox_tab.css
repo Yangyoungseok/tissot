@@ -1,0 +1,38 @@
+@media screen and (min-width:481px) and (max-width:768px) {
+   #headBox{  padding-top: 40px; padding-bottom: 20px; height:75px; background-color:rgba(0,0,0,0.5);}
+  .headBox_wrap{margin: auto; width:94%; height: 100%; }
+  h1{width:24.08854166666667vw; height: 100%; /*height:9.765625vw; *//* 75/768*100*/ float:left;  
+    background-image:url("../../../img/header/logoh1.png");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;}
+#nvBox{float:right; width:63.802083vw;/*490/768/100*/height:auto;}
+#hdgnb{float:right; width:17.447916vw;/*134/768/100*/ height:3.385416vw;/*26px/768/100*/ margin-bottom:2.864583vw;}
+#hdgnb>ul>li{width:100%;height:100%;}
+#hdgnb>ul>li>a{display:block; float:left; margin-right:3.90625vw;/*30*/ width:2.864583vw; height:3.385416vw;
+               background-repeat:no-repeat;
+               background-size:contain;
+              background-position:center;}
+#hdgnb>ul>li:nth-child(1)>a{background-image:url(../../../img/header/Search.png);}
+#hdgnb>ul>li:nth-child(2)>a{background-image:url(../../../img/header/world-512.png);}
+#hdgnb>ul>li:nth-child(3)>a{background-image:url(../../../img/header/pin-1630707_960_720.png);}
+#hdgnb>ul>li:nth-child(3)>a:last-child{margin-right:0;}
+
+
+
+
+#hdnav{box-sizing:border-box; padding:1.302083vw; float:right; width:100%; height:auto;}
+#hdnav>ul>li{float:left; width:8.203125vw;height:6.25vw; margin-right:2.604166vw;}
+#hdnav>ul>li>a{display:block; width:100%; height:auto; float:left; font-size:2.34375vw; font-weight:bold; text-align:center; text-transform:capitalize;}
+#hdnav>ul>li:nth-child(1){margin-left:7.03125vw; width:9.895833vw;height:auto; border:solid 2px #000; background-color:#fff;}
+#hdnav>ul>li:last-child{margin-right:0;}
+
+
+  #fullVideo{position: relative; width:100%; height:100%; background-color:#fa0; overflow:hidden;}
+  #fullVideo > video{
+    position: absolute; top:50%; left:50%; 
+    transform:translate(-50%,-50%);
+    width:auto; height:auto; min-width:100%; min-height:100%;}
+
+
+}

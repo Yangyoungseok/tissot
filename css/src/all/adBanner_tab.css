@@ -1,0 +1,98 @@
+@media screen and (min-width:481px) and (max-width:768px) {
+
+/*----------------------------------------------------------------------------------*/
+
+  #heritage{width:100%; height:52.08333333333333vw; box-sizing:border-box; padding-top:11.19791666666667vw; padding-left:4.6875vw;  background-color:#2b2b2b;}
+  .heri{position:relative; width:91.796875vw; height:39.0625vw;}
+  .heriBox{float:left; width:auto; height:28.38541666666667vw;}
+  .heriBox>h2{margin-bottom:3.255208333333333vw; width:26.04166666666667vw; height:9.765625vw;
+               background-image:url("../../../img/heritage/logo copy.png");
+               background-repeat:no-repeat;
+               background-size:contain;}
+  .heriBox>p{width:26.04166666666667vw; height:5.859375vw; font-weight:bold; font-size:18px; color:#fff;}
+  .heriSerach{position:absolute; left:50% ;bottom:50%; width:26.30208333333333vw; height:5.338541666666667vw;
+              background-image:url("../../../img/heritage/SEARCH copy.png");
+              background-repeat:no-repeat;
+              background-size:contain;}
+
+  .heriM{float:right; width:64.453125vw;height:32.55208333333333vw; background-image:url("../../../img/heritage/Layer 2 copy.jpg");
+                                   background-repeat:no-repeat;
+                                   background-size:contain;}
+.Mmen,.Mwom{display:none;}
+/*-------------------------------------------------------------------heri---*/
+
+   #store{ padding-top:6.510416666666667vw; padding-bottom:5.208333333333333vw; width:100%; /*height:76.82291666666667vw;*/ height:76.82291666666667vw; min-height:500px;  background-color:#fff;}
+#store>h2{display:none;}
+.gender{margin:auto; width:71.61458333333333vw; height:auto; margin-bottom:5.989583333333333vw;}
+.geBox_01{float:left; width:32.8125vw; height:auto; }
+.stmen{float:left; margin-bottom:1.953125vw;width:32.55208333333333vw; height:35px; background-color:#000;}
+.stmen>a{display:block; width:100%; height:100%; text-align:center; color:#fff; font-weight:bold; font-size:20px;}
+.stmen_01{float:left; margin-left:9.375vw; width:19.53125vw; height:auto; background-color:#fff; border:solid 1px #000;}
+.stmen_01>a{display:block; width:100%; height:100%; text-align:center;color:#000; font-weight:bold; line-height:30px; font-size:18px;}
+
+.geBox_02{float:right; width:32.8125vw; height:auto; }
+.stwom{float:right; margin-bottom:1.953125vw; width:32.55208333333333vw; height:35px; background-color:#000;}
+.stwom>a{display:block; width:100%; height:100%; text-align:center;color:#fff; font-weight:bold; font-size:20px;}
+.stwom_01{float:left; margin-left:9.375vw; width:19.53125vw; height:auto; background-color:#fff; border:solid 1px #000;}
+.stwom_01>a{display:block; width:100%; height:100%; text-align:center; color:#000; font-weight:bold; line-height:30px; font-size:18px;}
+
+.stBox{margin:auto; width:71.61458333333333vw; height:61.19791666666667vw;}
+.stBox>ul{width:100%;height:100%;}
+.stBox>ul>li{width:20.18229166666667vw;height:30.72916666666667vw; background-image:url("../../../img/store/men1/wc1.png");
+                                       background-repeat:no-repeat;
+                                       background-size:contain;
+                                       background-position:center;}
+/*---------------------------------*/
+#stindi{width:100%; height:auto; margin:10px auto;}
+#stindi > .stindi_01{float:right; height:24px;
+                    box-sizing:border-box; padding:1px;}
+#stindi > .stindi_01>li{float:left; width:2.083333333333333vw;height:2.083333333333333vw; margin-right:4px;}
+#stindi > .stindi_01>li:last-child{margin-right:0;}
+#stindi > .stindi_01>li>a{display:block; width:100%; height:100%; border-radius:100%; background-color:#fff; border:solid 1px #000;}
+
+#stindi > .stindi_01>li>a:hover, #adBox > .indicator>li>a:focus{background-color:#e60b11;}
+#stindi > .stindi_01>li.select>a{background-color:#e60b11;}
+
+  /*------------------->_<-----------------------------*/
+
+  #collection{box-sizing:border-box; width:100%; height:78.125vw; /*65.364583vw*/ /*502/768/100*/ padding-top:21.61458333333333vw; padding-left:16.14583333333333vw; 
+              background-image:url("../../../img/collection/Layer 2 copy 2.png");
+              background-repeat:no-repeat; background-size:cover;
+              background-position:center;}
+
+.coll{width:41.92708333333333vw;height:23.4375vw;}
+.coll>h3{margin-bottom:3.385416666666667vw; width:35.15625vw; height:9.114583333333333vw; color:#fff; font-size:4.427083333333333vw; border:solid 2px #fff;}
+.coll>h3>a{display:block; width:100%; height:100%; color:#fff; text-align:center; line-height:9.114583333333333vw;}
+.coll>p{width:41.92708333333333vw; height:11.19791666666667vw; color:#fff; font-size:18px; font-weight:bold}
+#Mfmenu_01{display:none;}
+#Mfmenu_02{display:none;}
+#Msearch{display:none;}
+
+
+ #magazine{box-sizing:border-box; padding-top:3.90625vw; padding-bottom:2rem; width:100%; height:auto;}
+ #magazine>h3{display:block; font-size:4.557291666666667vw; text-align:center; margin-bottom:7.291666666666667vw;}
+#magazine>ul{width:100%;height:auto;}
+
+#magazine>ul>li>a{display:block; width:100%; height:100%;}
+.maga_01{float:left; margin:auto; width:100%; height:auto; background-color:#000;}
+.magaBox_01{width:30.72916666666667vw;height:auto;}
+.maga_img{width:30.72916666666667vw;height:30.078125vw; background-color:#fff;}
+
+#magazine>ul dl{box-sizing:border-box; padding:0 25px 20px; width:100%; height:auto; background-color:#ab0;}
+#magazine>ul dt{width:100%;height:auto; font-size:1.875rem; margin-bottom:5px; text-transform:capitalize; font-weight:bold;}
+#magazine>ul dd{width:100%;height:auto; font-size:0.875rem; line-height:120%;}
+
+
+
+
+/*magaindicator-----------------------------*/
+#magaindi{width:100%; height:auto; margin:30px auto;}
+#magaindi > .magaindi_01{float:right; height:24px;
+                    box-sizing:border-box; padding:1px;}
+#magaindi > .magaindi_01>li{float:left; width:16px;height:16px; margin-right:4px;}
+#magaindi > .magaindi_01>li:last-child{margin-right:0;}
+#magaindi > .magaindi_01>li>a{display:block; width:100%; height:100%; border-radius:100%; border:solid 1px #000; background-color:#fff;}
+
+#magaindi > .magaindi_01>li>a:hover, #adBox > .indicator>li>a:focus{background-color:#e60b11;}
+#magaindi > .magaindi_01>li.select>a{background-color:#e60b11;}
+}
