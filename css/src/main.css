@@ -14,3 +14,5 @@
 @import url("./all/footBox_pc.css");
 @import url("./all/footBox_pcfull.css");
 
+h1{background-image:url(../../img/header/tissotlogo_w.png)}
+#hdgnb>ul>li:nth-child(2)>a{background-image:url(../../img/header/world-512_02.png);}

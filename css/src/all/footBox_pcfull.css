@@ -1,7 +1,7 @@
 @media screen and (min-width:1366px) {
-
+ 
   #footBox{box-sizing:border-box;width:100%; height:23.4375vw;background-color:#000; padding-top:3.882783882783883vw; }
-.footBox_01{float:left; width:50%; height:auto; box-sizing:border-box; padding-left:6.593406593406593vw; padding-top:}
+.footBox_01{float:left; width:50%; height:auto; box-sizing:border-box; padding-left:6.593406593406593vw;}
 
 .footBox_01>h2{width:30%;height:6.080586080586081vw;margin-bottom:10px;
               background-image:url("../../../img/footter/ftlogo.png");

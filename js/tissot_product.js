@@ -1,5 +1,5 @@
 // monfee_test_news.js
-
+ 
 (function($) {
 var ww = $(window).outerWidth();
 
@@ -10,18 +10,18 @@ var mainTitle = ['title1','title2','title3','title4','title5','title6','title7']
 
 var mainS = [
 
-            {img:"wc1.png",link:"mainS_01.html", title:"title1", data:"mainS lorem ........."},
-            {img:"wc2.png",link:"mainS_02.html", title:"title2", data:"mainS lorem ........."},
-            {img:"wc3.png",link:"mainS_03.html", title:"title3", data:"mainS lorem ........."},
-            {img:"wc4.png",link:"mainS_04.html", title:"title4", data:"mainS lorem ........."},
-            {img:"wc5.png",link:"mainS_05.html", title:"title5", data:"mainS lorem ........."},
-            {img:"wc6.png",link:"mainS_06.html", title:"title6", data:"mainS lorem ........."},
-            {img:"wc7.png",link:"mainS_07.html", title:"title7", data:"mainS lorem ........."},
-            {img:"wc8.png",link:"mainS_08.html", title:"title8", data:"mainS lorem ........."},
-            {img:"wc9.png",link:"mainS_09.html", title:"title9", data:"mainS lorem ........."},
-            {img:"wc10.png",link:"mainS_10.html", title:"title10", data:"mainS lorem ........."},
-            {img:"wc11.png",link:"mainS_11.html", title:"title11", data:"mainS lorem ........."},
-            {img:"wc12.png",link:"mainS_12.html", title:"title12", data:"mainS lorem ........."}
+            {img:"wc1.png",link:"mainS_01.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc2.png",link:"mainS_02.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc3.png",link:"mainS_03.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc4.png",link:"mainS_04.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc5.png",link:"mainS_05.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc6.png",link:"mainS_06.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc7.png",link:"mainS_07.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc8.png",link:"mainS_08.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc9.png",link:"mainS_09.html", title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc10.png",link:"mainS_10.html",title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc11.png",link:"mainS_11.html",title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"},
+            {img:"wc12.png",link:"mainS_12.html",title:"Lorem ipsum dolor", data:"Lorem ipsum dolor sit amet"}
 ];
 
 

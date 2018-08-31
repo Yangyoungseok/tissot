@@ -8,7 +8,7 @@
  var indiLiLengh = indiLi.length;
  
 
- var maga = $('.maga_01');
+ var maga = $('.magaZ');
 
  var i =0;
  var Que = function(i){
