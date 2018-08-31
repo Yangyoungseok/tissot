@@ -1,5 +1,5 @@
  /*mobile*/
-
+ 
 /*html,body{height: 100%;}
 #wrap{height: 100%;}
 #video{height: 100%;}*/
@@ -295,41 +295,42 @@
 
 
  #footBox{box-sizing:border-box;width:100%; height:23.4375vw;background-color:#000; }
+ 
+  #footBox{box-sizing:border-box;width:100%; height:23.4375vw;background-color:#000; padding-top:3.882783882783883vw; }
+.footBox_01{float:left; width:50%; height:auto; box-sizing:border-box; padding-left:6.593406593406593vw; padding-top:}
 
-
-.footBox_01{  padding-top:8.854166666666667vw; float:left; box-sizing:border-box; padding-left:10.9375vw; width:auto; height:auto;}
-.footBox_01>h2{float:left; width:17.39583333333333vw;height:5.208333333333333vw;
-              background-image:url(" ../../img/footter/ftlogo.png");
+.footBox_01>h2{width:30%;height:6.080586080586081vw;margin-bottom:10px;
+              background-image:url("../../img/footter/ftlogo.png");
               background-repeat:no-repeat;
               background-size:contain;}
-.svi_01{margin-left:5.416666666666667vw; float:left; width:auto;height:auto;}
-.svi_01>ul{float:left; width:148px;height:94px;}
-.svi_01>ul>li{ width:7.708333333333333vw;height:auto;  text-align:center;}
+.svi_01{float:left; width:auto;height:auto; }
+.svi_01>h4>a{color:#fff; float:left;width:auto;height:auto; font-size:1.2rem; font-weight:bold;}
+.svi_01>ul{float:left; width:100%; height:auto; margin-bottom:10px;}
+.svi_01>ul>li{float:left;width:auto; height:auto;}
 .svi_01>ul>li>a{width:100%;height:100%;color:#fff;}
-.svi_01>ul>li:first-child{font-size:18px; font-weight:bold; margin-bottom:22px}
 
 
 
-.svi_02{margin-left:1.770833333333333vw; float:left; width:auto;height:auto;}
-.svi_02>ul{float:left; width:180px;height:195px;}
-.svi_02>ul>li{ width:auto;height:auto;  text-align:center;}
+.svi_02{float:left; width:100%;height:auto;}
+.svi_02>ul{float:left; width:100%;height:auto;}
+.svi_02>h4>a{ color:#fff; float:left;width:auto;height:auto; font-size:1.2rem; font-weight:bold;}
+.svi_02>ul>li{float:left; width:auto;height:auto; }
 .svi_02>ul>li>a{width:100%;height:100%;color:#fff;}
-.svi_02>ul>li:first-child{font-size:18px; font-weight:bold; margin-bottom:22px}
+/*.svi_02>ul>li:last-child{margin-top:10px;}*/
+.svi_02>p{margin-top:15px; float:left; color:#fff;}
 
 
-.ftsearch{float:right; width:37.91666666666667vw;height:23.4375vw; 
-          box-sizing:border-box; padding-top:11.77083333333333vw;
-          background-image:url(" ../../img/footter/word.png");
+.ftsearch{float:right; width:50%;height:100%;
+          box-sizing:border-box; padding-top:13.80208333333333vw;
+          background-image:url("../../img/footter/word.png");
           background-repeat:no-repeat;
-          background-size:contain;}
-.ftsearch_01{margin:auto; width:15.3125vw;height:5.208333333333333vw;
-                      background-image:url(" ../../img/footter/serach2.png");
+          background-size:contain;
+          background-position:center;}
+.ftsearch_01{margin:auto; width:19.79166666666667vw;height:4.947916666666667vw;
+                      background-image:url(../../img/footter/serach2.png);
                       background-repeat:no-repeat;
-                      background-size:contain;}
-
-
-
-
+                      background-size:contain;
+                      background-position:center;}
 
 
 #heritage,#collection,#Mfmenu_01,#Mfmenu_02{display:none;}
